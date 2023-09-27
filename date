@@ -1,0 +1,1 @@
+cast (datediff (day, 0, createdate) as datetime) = cast (datediff (day, 0, getdate()) as datetime) --'2023-09-26'  
